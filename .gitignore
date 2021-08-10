@@ -1,4 +1,3 @@
-/CacheUnitClient/
-./idea
-/CacheUnitServer/
-./idea
+/.idea
+/CacheUnitClient/.idea
+/CacheUnitServer/.idea
