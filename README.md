@@ -1,6 +1,6 @@
 # MMU-project
 
-Java implementation of memory management unit.
+## Java implementation of memory management unit.
 Using client-server, design patterns, and replacement algorithms.
 
 First run the server - in the `CacheUnitProject` directory, run the file `CacheUnitServerDriver`:
