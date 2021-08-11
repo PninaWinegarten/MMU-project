@@ -5,8 +5,8 @@ Using client-server, design patterns, and replacement algorithms.
 
 First run the server - in the `CacheUnitProject` directory, run the file `CacheUnitServerDriver`:
 
-![caption]("serverExample.png")
+![caption](serverExample.png)
 
 Then run the server - in the `CacheUnitClient` directory, run the file `CacheUnitClientDriver`:
 
-![caption]("clientExample.gif")
+![caption](clientExample.gif)
