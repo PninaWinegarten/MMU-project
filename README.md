@@ -7,6 +7,6 @@ First run the server - in the `CacheUnitProject` directory, run the file `CacheU
 
 ![caption](serverExample.png)
 
-Then run the server - in the `CacheUnitClient` directory, run the file `CacheUnitClientDriver`:
+Then run the client - in the `CacheUnitClient` directory, run the file `CacheUnitClientDriver`:
 
 ![caption](clientExample.gif)
